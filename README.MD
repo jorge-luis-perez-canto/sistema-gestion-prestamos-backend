@@ -4,8 +4,6 @@ Este proyecto consiste en una API REST desarrollada para gestionar préstamos ba
 
 ## Características
 
--   **Gestión de Clientes:** Registro, actualización y eliminación de clientes.
-
 #### Gestión de Clientes:
 -   Registro de nuevos clientes con detalles como nombre, apellido, identificación y contacto.
 -   Listado completo de todos los clientes registrados en el sistema.
